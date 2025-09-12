@@ -1,0 +1,9 @@
+Lines in java2/module8/gettysburg.txt containing we:
+3: Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, 
+5: portion of it, as a final resting place for those who died here, that the nation might live. This we may, in all propriety do.
+7: But, in a larger sense, we can not dedicate we can not consecrate we can not hallow, this ground The 
+8: brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract. 
+9: The world will little note, nor long remember what we say here; while it can never forget what they did here.
+11: It is rather for us, the living, we here be dedicated to the great task remaining before us that, 
+12: from these honored dead we take increased devotion to that cause for which they here, gave the last full measure 
+13: of devotion that we here highly resolve these dead shall not have died in vain; that the nation, shall have a 
